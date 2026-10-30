@@ -1,0 +1,22 @@
+{
+  "wheel_id": 546,
+  "structure": "umbrella",
+  "slug": "goldcoastgaragedoorrepairs-106",
+  "project": "garage-door-repairs-gold-coast-red-flags-8f499472454c5da4d9de22",
+  "parent_t1_ref": "goldcoastgaragedoorrepairs-152",
+  "node_role": "feeder",
+  "money_target": "goldcoastgaragedoorrepairs.com.au",
+  "primary_kw": "garage door repairs gold coast red flags",
+  "intended_url": "http://garage-door-repairs-gold-coast-red-flags-8f499472454c5da4d9de22.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "1c9e00da4e775207",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/garage-door-repairs-gold-coast-what-to-expect-847fe6b7ca2a7c/",
+      "anchor": "https://vercel-cloudsites-hub.vercel.app/sites-01/garage-door-repairs-gold-coast-what-to-expect-847fe6b7ca2a7c/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
